@@ -1,2 +1,10 @@
 body {
   background-color: #282c34; }
+
+p {
+  color: black;
+  font-size: 20px; }
+
+nav ul li {
+  display: inline-block;
+  font-size: 20px; }
